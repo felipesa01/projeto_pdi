@@ -3,7 +3,6 @@
 "name": "pt_ref_23n",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32623" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 44 }, "geometry": { "type": "Point", "coordinates": [ 309457.986980461515486, -1942746.491077508078888, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 300124.112391417555045, -1894096.287924404023215, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 269082.061958453385159, -1898325.563381132669747, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 255328.504705528350314, -1929982.820459135808051, 0.0 ] } },
@@ -33,28 +32,6 @@
 { "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Felipe", "id": 27 }, "geometry": { "type": "Point", "coordinates": [ 270059.460938419098966, -1905008.531250006752089, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Felipe", "id": 28 }, "geometry": { "type": "Point", "coordinates": [ 309097.312499760766514, -1925410.625976588111371, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Felipe", "id": 29 }, "geometry": { "type": "Point", "coordinates": [ 334172.173827125807293, -1874438.396484392229468, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Felipe", "id": 30 }, "geometry": { "type": "Point", "coordinates": [ 361380.914060695737135, -1895773.617187530035153, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 31 }, "geometry": { "type": "Point", "coordinates": [ 289014.483089384797495, -1937788.95291308243759, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 32 }, "geometry": { "type": "Point", "coordinates": [ 288599.433382595540024, -1932946.706333874026313, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 33 }, "geometry": { "type": "Point", "coordinates": [ 300442.185016316128895, -1933324.862733393209055, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 34 }, "geometry": { "type": "Point", "coordinates": [ 331589.359679146611597, -1933241.852792035089806, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 35 }, "geometry": { "type": "Point", "coordinates": [ 335998.109897930407897, -1921869.490826008841395, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 36 }, "geometry": { "type": "Point", "coordinates": [ 333756.841481268464122, -1913162.670310251647606, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 37 }, "geometry": { "type": "Point", "coordinates": [ 319313.111685001873411, -1877025.675839132163674, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 38 }, "geometry": { "type": "Point", "coordinates": [ 306529.580715892428998, -1886119.876081225229427, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 38 }, "geometry": { "type": "Point", "coordinates": [ 282963.980697079095989, -1885631.03975989529863, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 39 }, "geometry": { "type": "Point", "coordinates": [ 276443.088637078762986, -1869241.188005127478391, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 41 }, "geometry": { "type": "Point", "coordinates": [ 284730.247782637947239, -1915367.045419642468914, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 39 }, "geometry": { "type": "Point", "coordinates": [ 260343.771677063690731, -1892530.088219415396452, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 40 }, "geometry": { "type": "Point", "coordinates": [ 252771.420359863754129, -1899779.623098001582548, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 42 }, "geometry": { "type": "Point", "coordinates": [ 283761.798466796346474, -1909076.736530080903322, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 43 }, "geometry": { "type": "Point", "coordinates": [ 309983.716609060938936, -1892027.416907859267667, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 45 }, "geometry": { "type": "Point", "coordinates": [ 330376.492202640743926, -1919651.280726389959455, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 46 }, "geometry": { "type": "Point", "coordinates": [ 330814.600226473878138, -1905511.920715101994574, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 46 }, "geometry": { "type": "Point", "coordinates": [ 287437.2942035861779, -1860271.502675071824342, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 47 }, "geometry": { "type": "Point", "coordinates": [ 263143.051366187399253, -1855106.439657249255106, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 48 }, "geometry": { "type": "Point", "coordinates": [ 322227.682959344878327, -1901425.98693493148312, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 49 }, "geometry": { "type": "Point", "coordinates": [ 265494.999704660032876, -1926338.19266910594888, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Aline", "id": 50 }, "geometry": { "type": "Point", "coordinates": [ 291836.821095552644692, -1925452.753294622991234, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Sem nome", "operador": "Felipe", "id": 30 }, "geometry": { "type": "Point", "coordinates": [ 361380.914060695737135, -1895773.617187530035153, 0.0 ] } }
 ]
 }

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pt_unico_img",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32723" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 334172.173827125807293, 8125561.603515608236194 ] } }
+]
+}
